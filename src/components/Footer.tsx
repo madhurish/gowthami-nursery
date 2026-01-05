@@ -60,7 +60,7 @@ const Footer = () => {
 
           <div className="mt-16 pt-8 border-t border-gray-200 text-center">
             <p className="text-gray-500 text-sm">
-              © 2023 Gowthami Nursery | Designed & developed by <span className="font-semibold italic">BrandSoHigh</span>
+              © 2023 Gowthami Nursery | Designed & developed by <a href="https://wishcoinmedia.com" target="_blank" rel="noopener noreferrer" className="font-semibold italic hover:text-primary transition-colors">wishcoinmedia.com</a>
             </p>
             <p className="text-gray-400 text-xs mt-4">
               All the website content is copyrighted. Any kind of information copied, including images is a legal offense.
