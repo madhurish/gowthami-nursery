@@ -3,12 +3,15 @@ import { SectionTitle } from "@/components/UI";
 
 export default function GalleryPage() {
   const images = [
-    { src: "/images/hero-bg.jpg", title: "Nursery Overview" },
-    { src: "/images/about-side.png", title: "Gardening Tools" },
+    { src: "/images/gallery-1.jpeg", title: "Nursery Overview" },
+    { src: "/images/gallery-2.jpg", title: "Plant Collections" },
+    { src: "/images/gallery-3.jpg", title: "Outdoor Display" },
     { src: "/images/bamboo.jpg", title: "Bamboo Grove" },
     { src: "/images/bonsai.jpg", title: "Bonsai Collection" },
     { src: "/images/olives.jpg", title: "Olive Trees" },
     { src: "/images/palm.jpg", title: "Palm Varieties" },
+    { src: "/images/topiaries.jpg", title: "Topiaries" },
+    { src: "/images/avenues.png", title: "Avenue Plants" },
   ];
 
   return (

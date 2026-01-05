@@ -14,10 +14,11 @@ export default function PlantsPage() {
     { name: "Japanese Maple", category: "Bonsai", image: "/images/bonsai.jpg" },
     { name: "Golden Bamboo", category: "Bamboos", image: "/images/bamboo.jpg" },
     { name: "Ancient Olive", category: "Olives", image: "/images/olives.jpg" },
-    { name: "Boulevard Avenue", category: "Avenues", image: "/images/hero-bg.jpg" },
+    { name: "Boulevard Avenue", category: "Avenues", image: "/images/avenues.png" },
     { name: "Foxtail Palm", category: "Palms", image: "/images/palm.jpg" },
     { name: "Ficus Bonsai", category: "Bonsai", image: "/images/bonsai.jpg" },
     { name: "Black Bamboo", category: "Bamboos", image: "/images/bamboo.jpg" },
+    { name: "Syzygium Topiary", category: "Topiaries", image: "/images/topiaries.jpg" },
   ];
 
   const filteredPlants = activeCategory === "All" 

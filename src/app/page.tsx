@@ -5,12 +5,12 @@ import { PlantCard, SectionTitle } from "@/components/UI";
 
 export default function Home() {
   const featuredPlants = [
-    { name: "Avenues", image: "/images/hero-bg.jpg" },
+    { name: "Avenues", image: "/images/avenues.png" },
     { name: "Bamboos", image: "/images/bamboo.jpg" },
     { name: "Bonsai", image: "/images/bonsai.jpg" },
     { name: "Olives", image: "/images/olives.jpg" },
     { name: "Palms", image: "/images/palm.jpg" },
-    { name: "Topiaries", image: "/images/about-side.png" },
+    { name: "Topiaries", image: "/images/topiaries.jpg" },
   ];
 
   const testimonials = [
